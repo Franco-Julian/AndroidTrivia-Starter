@@ -23,6 +23,7 @@ buildscript {
         supportlibVersion = '1.4.1'
         dataBindingCompilerVersion = gradleVersion // Always need to be the same.
         navigationVersion = "2.4.1"
+        version = "1.6.0-alpha02"
     }
     repositories {
         google()
